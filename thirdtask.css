@@ -1,0 +1,33 @@
+.header{
+    width: 800px;
+    height: 150px;
+    border: solid 3px;
+    border-radius: 5px;
+    position: relative;
+}
+.box{
+    border: solid 1px;
+    border-radius: 3px;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
+.logo{
+    height: 60px;
+    width: 200px;
+    background-color: rgb(211, 72, 211);
+    
+   }
+.topnav{
+    height: 30px;
+    width: 130px;
+    background-color: rgb(19, 138, 159);
+    left:660px;
+}
+.menu{
+    height: 35px;
+    width: 300px;
+    background-color: rgb(29, 231, 106);
+    top: 110px;
+    left: 490px;
+}

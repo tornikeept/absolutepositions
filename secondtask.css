@@ -1,0 +1,40 @@
+.div1{
+    width: 300px;
+    height: 200px;
+    background-color: rgb(89, 255, 0);
+    border: solid 4px;
+    border-radius: 5px;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+.div2{
+    width: 250px;
+    height: 300px;
+    background-color: rgb(255, 0, 179);
+    border: solid 4px;
+    border-radius: 5px;
+    position: absolute;
+    top: 200px;
+    left: 250px;
+}
+
+.div3{
+    width: 650px;
+    height: 150px;
+    background-color: rgb(255, 196, 0);
+    border: solid 4px;
+    border-radius: 5px;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+.div4{
+    width: 180px;
+    height: 550px;
+    background-color: rgb(255, 47, 0);
+    border: solid 4px;
+    border-radius: 5px;
+    position: absolute;
+    left: 650px;
+}
